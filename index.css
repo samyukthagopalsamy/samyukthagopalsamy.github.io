@@ -114,3 +114,9 @@ a {
 .project-description {
   font-family: "Inter", sans-serif;
 }
+ul {
+  list-style: disc;
+  margin-left: 20px;
+  font-family: "Inter", sans-serif;
+  justify-content: flex-start;
+}
