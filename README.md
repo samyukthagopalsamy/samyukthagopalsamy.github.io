@@ -1,4 +1,4 @@
 # Personal Portfolio Website 
 
-[samyukthagopalsamy.github.io](samyukthagopalsamy.github.io)
+[samyukthagopalsamy.github.io](https://samyukthagopalsamy.github.io/)
 
